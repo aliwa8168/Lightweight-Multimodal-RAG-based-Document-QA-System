@@ -8,11 +8,11 @@
 
 > 文本解析 + 图片 OCR + 语义检索 + 大模型生成 + 溯源机制
 
-实现对**多篇 PDF 文档（含图像内容）**的高精度问答与多轮对话交互，提升知识获取效率与回答可信度。
+实现对**多篇 PDF 文档**的高精度问答与多轮对话交互，提升知识获取效率与回答可信度。
 
 ## 项目流程：
 
-![](E:\wendang\Markdown\图片\英语\workflow.jpg)
+![Workflow Diagram](https://github.com/aliwa8168/Lightweight-Multimodal-RAG-based-Document-QA-System/blob/main/workflow.jpg)
 
 
 
@@ -119,5 +119,6 @@ PDF上传
    ```toml
    DEEPSEEK_API_KEY="your api key"
    ```
+
 
    
